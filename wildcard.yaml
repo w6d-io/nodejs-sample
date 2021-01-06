@@ -1,0 +1,4 @@
+env_vars:
+ NODE_ENV: production
+ PORT: 8080
+merge_branch: devlop
